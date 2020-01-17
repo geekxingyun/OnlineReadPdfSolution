@@ -1,4 +1,4 @@
-# online-read-pdf-solution
+# OnlineReadPdfSolution
 this is a repository about how to read pdf online
 
 1. [http://web.jisupdf.com/](http://web.jisupdf.com/)
