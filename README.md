@@ -10,3 +10,7 @@ this is a repository about how to read pdf online
 3. [Try it](https://www.html5tricks.com/demo/html5-online-pdf-viewer/web/viewer.html)
 
 [Source Download](https://www.html5tricks.com/download/html5-online-pdf-viewer.rar)
+
+4. [https://github.com/mozilla/pdf.js/](https://github.com/mozilla/pdf.js/)
+
+5. [Office 文档在线预览的几种方案](http://hxd.best/2019/07/14/office-%E6%96%87%E6%A1%A3%E5%9C%A8%E7%BA%BF%E9%A2%84%E8%A7%88%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95/)
